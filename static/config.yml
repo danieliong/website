@@ -8,10 +8,10 @@
 #  
 #
 
-backend:
-  name: github
-  repo: eddiewebb/hugo-resume
-  branch: cms
+# backend:
+#   name: 
+#   repo: eddiewebb/hugo-resume
+#   branch: cms
 
 
 media_folder: "img" # Folder where user uploaded files should go
