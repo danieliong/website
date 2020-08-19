@@ -7,7 +7,7 @@ tags: ["Bayesian statistics", "R"]
 image: ""
 weight: 100
 syllabus_button: true
-syllabus: "teaching/STATS551WIN2020Syllabus.pdf"
+syllabus: "/teaching/STATS551WIN2020Syllabus.pdf"
 sitemap:
   priority : 0.8
 ---
