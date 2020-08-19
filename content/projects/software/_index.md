@@ -8,5 +8,3 @@ sitemap:
   priority: 0.5
   weight: 0.8
 ---
-
-List of software packages that I have developed.
