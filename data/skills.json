@@ -1,0 +1,14 @@
+[
+    {
+        "grouping": "Programming Languages",
+        "skills": ["R", "Python", "C++", "Rcpp"]
+    },
+    {
+        "grouping": "Data Science Tools",
+        "skills": ["Numpy","Pandas","Scikit-learn","Tensorflow","ggplot","Matplotlib"]
+    },
+    {
+        "grouping": "Computing tools",
+        "skills": ["linux","bash","git", "VS Code"]
+    }
+]

@@ -1,14 +1,15 @@
 title = "Daniel Iong"
-baseURL = "https://example.com/"
+baseURL = "http://www-personal.umich.edu/~daniong/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = true
+canonifyURLs = true
 
 [params]
-address = "Ann Arbor, MI"
+# address = "Ann Arbor, MI"
 email = "daniong@umich.edu"
 favicon = "/favicon.ico"
 firstName = "Daniel"
@@ -16,16 +17,18 @@ lastName = "Iong"
 phone = "510-816-8686"
 profileImage = "img/grad_pic.jpg"
 showEducation = true
-showExperience = true
-showOpenSource = true
-showProjects = true
+showExperience = false
+showOpenSource = false
+showProjects = false
 showPublications = true
 showQr = false
 showSkills = true
-color_theme='ocean'
+showBlog = true
+showSoftware = true
+showTeaching = true
 
-# [params.google.analytics]
-# trackerID = "XX-123446-01"
+[params.google.analytics]
+trackerID = "UA-175735513-1"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/danieliong/"
@@ -34,6 +37,22 @@ name = "LinkedIn"
 [[params.handles]]
 link = "https://github.com/danieliong/"
 name = "GitHub"
+
+[[params.handles]]
+link="https://www.facebook.com/daniel.iong/"
+name="Facebook"
+
+[[params.handles]]
+link="https://www.instagram.com/danieliongg/"
+name="Instagram"
+
+[[params.handles]]
+link="https://twitter.com/IongDaniel"
+name="Twitter"
+
+[[params.handles]]
+link="https://scholar.google.com/citations?user=b6dIhg8AAAAJ&hl=en"
+name="Google Scholar"
 
 # [[params.handles]]
 # link = "https://bitbucket.org/eddiewebb/"
