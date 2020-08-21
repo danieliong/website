@@ -2,21 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Daniel Iong</title>
+<<<<<<< HEAD
     <link>http://www.danieliong.me/blog/</link>
+=======
+    <link>http://www-personal.umich.edu/~daniong/blog/</link>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
     <description>Recent content in Blog on Daniel Iong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Aug 2020 13:34:18 -0400</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="http://www.danieliong.me/blog/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://www-personal.umich.edu/~daniong/blog/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
     
     
     <item>
       <title>Graduate school presentation at UC Davis</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/blog/grad_school_presentation/</link>
       <pubDate>Fri, 08 Nov 2019 10:06:35 -0400</pubDate>
       
       <guid>http://www.danieliong.me/blog/grad_school_presentation/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/blog/grad_school_presentation/</link>
+      <pubDate>Fri, 08 Nov 2019 10:06:35 -0400</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/blog/grad_school_presentation/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description>In November 2019, I had the wonderful opportunity to return to my alma mater to speak about graduate programs in Statistics at UM and my personal journey to graduate school in Statistics. I also gave advice to prospective graduate students from my former department on how to make yourself competitive for graduate programs in Statistics (what courses to take, how to get involved with research, etc).
 The slides from the presentation can be found here.</description>
     </item>

@@ -2,21 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Daniel Iong</title>
+<<<<<<< HEAD
     <link>http://www.danieliong.me/publications/</link>
+=======
+    <link>http://www-personal.umich.edu/~daniong/publications/</link>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
     <description>Recent content in Publications on Daniel Iong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="http://www.danieliong.me/publications/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://www-personal.umich.edu/~daniong/publications/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
     
     
     <item>
       <title>A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/publications/mrpath/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/publications/mrpath/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/publications/mrpath/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/publications/mrpath/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     

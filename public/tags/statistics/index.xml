@@ -2,20 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics on Daniel Iong</title>
+<<<<<<< HEAD
     <link>http://www.danieliong.me/tags/statistics/</link>
+=======
+    <link>http://www-personal.umich.edu/~daniong/tags/statistics/</link>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
     <description>Recent content in Statistics on Daniel Iong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
+<<<<<<< HEAD
 	<atom:link href="http://www.danieliong.me/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://www-personal.umich.edu/~daniong/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
     
     
     <item>
       <title>STATS 250: Introduction to Statistics and Data Analysis</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/teaching/stats250/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/teaching/stats250/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/teaching/stats250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/teaching/stats250/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description>Under construction&amp;hellip;</description>
     </item>
     

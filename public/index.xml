@@ -2,76 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Daniel Iong</title>
+<<<<<<< HEAD
     <link>http://www.danieliong.me/</link>
+=======
+    <link>http://www-personal.umich.edu/~daniong/</link>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
     <description>Recent content in Home on Daniel Iong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="http://www.danieliong.me/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://www-personal.umich.edu/~daniong/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
     
     
     <item>
       <title>STATS 551: Bayesian Modeling and Computation</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/teaching/stats551/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/teaching/stats551/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/teaching/stats551/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/teaching/stats551/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description>Under construction&amp;hellip;</description>
     </item>
     
     <item>
       <title>STATS 451: Bayesian Data Analysis</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/teaching/stats451/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/teaching/stats451/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/teaching/stats451/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/teaching/stats451/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description>Under construction&amp;hellip;</description>
     </item>
     
     <item>
       <title>STATS 250: Introduction to Statistics and Data Analysis</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/teaching/stats250/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/teaching/stats250/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/teaching/stats250/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/teaching/stats250/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description>Under construction&amp;hellip;</description>
     </item>
     
     <item>
       <title>A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/publications/mrpath/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/publications/mrpath/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/publications/mrpath/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/publications/mrpath/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
     <item>
       <title>Graduate school presentation at UC Davis</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/blog/grad_school_presentation/</link>
       <pubDate>Fri, 08 Nov 2019 10:06:35 -0400</pubDate>
       
       <guid>http://www.danieliong.me/blog/grad_school_presentation/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/blog/grad_school_presentation/</link>
+      <pubDate>Fri, 08 Nov 2019 10:06:35 -0400</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/blog/grad_school_presentation/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description>In November 2019, I had the wonderful opportunity to return to my alma mater to speak about graduate programs in Statistics at UM and my personal journey to graduate school in Statistics. I also gave advice to prospective graduate students from my former department on how to make yourself competitive for graduate programs in Statistics (what courses to take, how to get involved with research, etc).
 The slides from the presentation can be found here.</description>
     </item>
     
     <item>
       <title>MR-PATH</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/projects/software/mrpath/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/projects/software/mrpath/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/projects/software/mrpath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/projects/software/mrpath/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description>Tutorial coming soon&amp;hellip;</description>
     </item>
     
     <item>
       <title>Search Results</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/search/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/search/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.

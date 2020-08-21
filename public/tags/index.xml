@@ -2,129 +2,228 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Daniel Iong</title>
+<<<<<<< HEAD
     <link>http://www.danieliong.me/tags/</link>
+=======
+    <link>http://www-personal.umich.edu/~daniong/tags/</link>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
     <description>Recent content in Tags on Daniel Iong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
     
+<<<<<<< HEAD
 	<atom:link href="http://www.danieliong.me/tags/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="http://www-personal.umich.edu/~daniong/tags/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
     
     
     <item>
       <title>Causal inference</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/tags/causal-inference/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/tags/causal-inference/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/tags/causal-inference/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/causal-inference/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
     <item>
       <title>Latent variable models</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/tags/latent-variable-models/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/tags/latent-variable-models/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/tags/latent-variable-models/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/latent-variable-models/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
     <item>
       <title>Mendelian Randomization</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/tags/mendelian-randomization/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/tags/mendelian-randomization/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/tags/mendelian-randomization/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/mendelian-randomization/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
     <item>
       <title>Mixture models</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/tags/mixture-models/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/tags/mixture-models/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/tags/mixture-models/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/mixture-models/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
     <item>
       <title>Statistical computing</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/tags/statistical-computing/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/tags/statistical-computing/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/tags/statistical-computing/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/statistical-computing/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
     <item>
       <title>Graduate school</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/tags/graduate-school/</link>
       <pubDate>Fri, 08 Nov 2019 10:06:35 -0400</pubDate>
       
       <guid>http://www.danieliong.me/tags/graduate-school/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/tags/graduate-school/</link>
+      <pubDate>Fri, 08 Nov 2019 10:06:35 -0400</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/graduate-school/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
     <item>
       <title>Presentations</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/tags/presentations/</link>
       <pubDate>Fri, 08 Nov 2019 10:06:35 -0400</pubDate>
       
       <guid>http://www.danieliong.me/tags/presentations/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/tags/presentations/</link>
+      <pubDate>Fri, 08 Nov 2019 10:06:35 -0400</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/presentations/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
     <item>
       <title>Bayesian statistics</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/tags/bayesian-statistics/</link>
       <pubDate>Sat, 10 Feb 2018 18:56:13 -0500</pubDate>
       
       <guid>http://www.danieliong.me/tags/bayesian-statistics/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/tags/bayesian-statistics/</link>
+      <pubDate>Sat, 10 Feb 2018 18:56:13 -0500</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/bayesian-statistics/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/tags/c&#43;&#43;/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/tags/c&#43;&#43;/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/c&#43;&#43;/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
     <item>
       <title>EM algorithm</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/tags/em-algorithm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/tags/em-algorithm/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/tags/em-algorithm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/em-algorithm/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
     <item>
       <title>Monte-Carlo sampling</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/tags/monte-carlo-sampling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/tags/monte-carlo-sampling/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/tags/monte-carlo-sampling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/monte-carlo-sampling/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
     <item>
       <title>R</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/tags/r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/tags/r/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/tags/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/r/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
     <item>
       <title>Statistics</title>
+<<<<<<< HEAD
       <link>http://www.danieliong.me/tags/statistics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.danieliong.me/tags/statistics/</guid>
+=======
+      <link>http://www-personal.umich.edu/~daniong/tags/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-personal.umich.edu/~daniong/tags/statistics/</guid>
+>>>>>>> b27b8f271bcd8b5664f9af99f86a6754cdc374ab
       <description></description>
     </item>
     
