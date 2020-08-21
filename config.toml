@@ -1,5 +1,5 @@
 title = "Daniel Iong"
-baseURL = "http://www-personal.umich.edu/~daniong/"
+baseURL = "http://www.danieliong.me/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true

@@ -8,7 +8,7 @@ tags: ["Bayesian statistics", "R"]
 website_button: true
 website: "https://danieliong.github.io/stats451/"
 evals_button: true
-evals: "teaching/stats451f19_evals.pdf"
+evals: "/teaching/stats451f19_evals.pdf"
 image: ""
 weight: 200
 sitemap:
